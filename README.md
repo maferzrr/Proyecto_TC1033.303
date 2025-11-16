@@ -4,7 +4,7 @@ El manejo moderno de la productividad exige más que una simple lista de pendien
 
 ------------
 ### Funcionalidad
-**ClassFlow** utiliza el paradigma de** POO en C++** para crear un sistema de gestión de tareas donde cada actividad es un objeto especializado. Esto permite que el programa trate cada tipo de tarea con la lógica y los atributos que realmente necesita, haciendo la organización más eficiente y precisa.
+**ClassFlow** utiliza el paradigma de **POO en C++** para crear un sistema de gestión de tareas donde cada actividad es un objeto especializado. Esto permite que el programa trate cada tipo de tarea con la lógica y los atributos que realmente necesita, haciendo la organización más eficiente y precisa.
 
 En lugar de tener una sola lista, el programa gestiona tres clases de objetos distintos:
 
