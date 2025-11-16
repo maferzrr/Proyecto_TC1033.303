@@ -16,7 +16,7 @@ En lugar de tener una sola lista, el programa gestiona tres clases de objetos di
 
 ------------
 
-#####  Autor
+####  Autor
 María Fernanda Zetina Reyes
 
 Matrícula: A01709799
