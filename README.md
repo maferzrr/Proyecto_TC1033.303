@@ -8,11 +8,11 @@ El manejo moderno de la productividad exige más que una simple lista de pendien
 
 En lugar de tener una sola lista, el programa gestiona tres clases de objetos distintos:
 
-**WorkTask:** Con enfoque en la fecha límite, la prioridad y la asignación de equipo.
+**WorkTask:** Con enfoque en la fecha límite, la prioridad y la asignación.
 
-**HomeTask:** Con enfoque en la ubicación dentro del hogar y la urgencia.
+**HomeTask:** Con enfoque en la ubicación dentro del hogar y la urgencia y el tiempo invertdio.
 
-**Personal Task:** Con enfoque en el avance, el tiempo invertido y el tipo de actividad (ej. ejercicio, estudio).
+**Personal Task:** Con enfoque en el avance, el tiempo y el tipo de actividad (ej. ejercicio, estudio).
 
 ------------
 
