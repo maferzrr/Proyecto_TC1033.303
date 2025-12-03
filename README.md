@@ -13,9 +13,20 @@ En lugar de tener una sola lista, el programa gestiona dos clases de objetos dis
 **Personal Task:** Con enfoque en el avance, el tiempo y el tipo de actividad (ej. ejercicio, estudio).
 
 ------------
-### Diagrama en UML 
-![Diagrama de Clases]("C:\Programming\C++\Proyecto TC033.303\New Project\ClassFlow - UML.png" "Diagrama de Clases")
+### Instrucciones de Compilación 
+- Descargue todos los documentos adjuntos (a excepción de el diagrama UML).
+- Desde la terminal, siga los pasos de compalación para windows y compile únicamente el main.
 
+------------
+
+
+ - *Pasos para compilación en Windows:*
+  -  En la terminal escriba el comando de compilación para C++, y corra el ejecutable  en la terminal.
+  - Solo compile el archivo **"Main.cpp"**.
+  
+** Comando de compilación **
+  - g++ [nombre del archivo.cpp] -o [nombre del ejecutable a crear]
+  
 ------------
 
 
