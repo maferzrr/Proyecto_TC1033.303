@@ -1,0 +1,11 @@
+María Fernanda Zetina Reyes
+A01709799
+---
+
+Actualización en READ.ME
+Se agregaron instrucciones de compilación para Windows.
+Se eliminó la dirección de el UML.
+
+
+Actualización en UML
+Se agregó del UML en los documentos del repositorio.
