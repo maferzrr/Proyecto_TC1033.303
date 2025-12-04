@@ -13,6 +13,12 @@ En lugar de tener una sola lista, el programa gestiona dos clases de objetos dis
 **Personal Task:** Con enfoque en el avance, el tiempo y el tipo de actividad (ej. ejercicio, estudio).
 
 ------------
+
+### UML
+
+<img width="2246" height="3654" alt="ClassFlow - UML" src="https://github.com/user-attachments/assets/87406f35-118b-4bb4-9baa-fe25660de81a" />
+
+------------
 ### Instrucciones de Compilación 
 - Descargue todos los documentos adjuntos (a excepción de el diagrama UML).
 - Desde la terminal, siga los pasos de compalación para windows y compile únicamente el main.
