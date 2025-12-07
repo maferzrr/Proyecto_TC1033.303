@@ -8,4 +8,8 @@ Se eliminó la dirección de el UML.
 
 
 Actualización en UML
+
 Se agregó del UML en los documentos del repositorio.
+
+Actualización en los comentarios del código
+Se agregaron los ocmentarios adecuados a cada clase y main (similares al proyecto demo).
