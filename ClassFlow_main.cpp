@@ -4,6 +4,11 @@
 
 using namespace std;
 
+/**
+ * Funcion principal main que ejecuta el menu
+ *
+ * @return int: estatus de finalizacion del programa
+ */
 int main() {
 
     ClassFlow gestor;
@@ -91,5 +96,4 @@ int main() {
 
     return 0;
 
-    }
-
+}
